@@ -1,0 +1,36 @@
+.forward
+{
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    font-size: 16px;
+    font-size: 0.9vw;
+    font-size: 1.5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.list
+{
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    font-size: 16px;
+    font-size: 0.9vw;
+    font-size: 1.5vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+img
+{
+    border: 5px solid rgb(0,0,0,0.6);
+}
+
+body
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+    text-align: center;
+
+    background: rgb(20,30,48);
+    background: radial-gradient(circle, rgba(20,30,48,1) 0%, rgba(28,51,66,1) 64%, rgba(36,74,85,1) 100%); 
+}
