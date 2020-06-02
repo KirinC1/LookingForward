@@ -1,0 +1,61 @@
+
+body
+{
+    background-image: radial-gradient(circle, #d7d2cc 0%, #304352 100%); 
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.forward
+{
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    font-size: 16px;
+    font-size: 0.9vw;
+    font-size: 1.7vh;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+.list
+{
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    font-size: 16px;
+    font-size: 0.9vw;
+    font-size: 1.5vh;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.button
+{
+    scale: 5;
+    position: absolute;
+    top: 45%;
+    left: 5%;
+}
+
+.arrow 
+{
+    border: solid rgb(0,0,0,0.85);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+  
+.right 
+{
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+
+img
+{
+    border: 5px solid rgb(0,0,0,0.6);
+}
